@@ -2,7 +2,7 @@
 
 ---
 
-### **Neural Networks and Deep Learning**  
+### **Artificial Intelligence Fundamentals**  
 
 #### **1. [Understanding Neural Networks](https://trailhead.salesforce.com/content/learn/modules/artificial-intelligence-fundamentals/get-started-with-artificial-intelligence?trailmix_creator_id=strailhead&trailmix_slug=prepare-for-your-salesforce-ai-associate-credential)**  
 - **Definition**: Neural networks are algorithms inspired by the human brain, consisting of nodes (neurons), layers, weights, and biases.  
@@ -58,5 +58,10 @@
    It measures how well the network's predictions match the actual output.  
 
 ---
+
+![Screenshot (888)](https://github.com/user-attachments/assets/429665f7-243e-4b9a-a3d8-1e2e6c4adfcc)
+
+### **Artificial Intelligence for Business**  
+
 
 
